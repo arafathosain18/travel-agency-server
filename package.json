@@ -2,7 +2,7 @@
   "name": "complete-website-server-arafathosain18",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Index.js",
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js",
