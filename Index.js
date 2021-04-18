@@ -94,6 +94,4 @@ app.delete('/delete/:id', (req, res)=>{
 
 
 
-app.listen(port, () => {
-  console.log('iam connected');
-})
+app.listen(port);
